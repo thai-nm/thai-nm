@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I'm a computer guy trying my best to discover the world of technologies, and my target is to become a admirable and knowledgable DevOps Engineer!
 
-<img align="right" alt="img" src="https://assets-global.website-files.com/5d514fd9493b0575f03520bd/5da4e8ec22048842f249c366_5d98f458c33c8905ca761c74_You-Cant-just-rename-you-IT-Ops-team-and-call-it-DevOps-1648x824.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://assets-global.website-files.com/5d514fd9493b0575f03520bd/5da4e8ec22048842f249c366_5d98f458c33c8905ca761c74_You-Cant-just-rename-you-IT-Ops-team-and-call-it-DevOps-1648x824.jpg" width="50%" height="300px" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -21,23 +21,14 @@ Welcome to my Github page! I'm a computer guy trying my best to discover the wor
 - Getting better and clearer knowledge of DevOps career
 
 #### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=thainm-uet&show_icons=true&hide_border=true&theme=kacho_ga" />
 
-<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thainm-uet&layout=compact&theme=blueberry&hide_border=true)](https://github.com/thainm-uet/github-readme-stats) -->
+<p>
+	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=thainm-uet&show_icons=true&theme=monokai" />
+	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainm-uet&layout=compact&theme=monokai" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thainm-uet&layout=compact)](https://github.com/thainm-uet/github-readme-stats)
 
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhCao031&repo=Web3306_22&theme=blueberry)](https://github.com/MinhCao031/Web3306_22) -->
+
