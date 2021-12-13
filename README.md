@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I'm a computer guy trying my best to discover the world of technologies, and my target is to become a admirable and knowledgable DevOps Engineer!
 
-<img align="right" alt="img" src="https://assets-global.website-files.com/5d514fd9493b0575f03520bd/5da4e8ec22048842f249c366_5d98f458c33c8905ca761c74_You-Cant-just-rename-you-IT-Ops-team-and-call-it-DevOps-1648x824.jpg" width="50%" height="300px" />
+<img align="right" alt="img" src="https://github.com/thainm-uet/thainm-uet/blob/main/its-devops.png" width="50%" height="300px" />
 
 
 #### 🌱 Things I am currently working on: 
