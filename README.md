@@ -22,13 +22,7 @@ Welcome to my Github page! I'm a computer guy trying my best to discover the wor
 
 #### :computer: Programming languages and tools: 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thainm-uet&layout=compact&theme=blueberry&hide_border=true)](https://github.com/thainm-uet/github-readme-stats) -->
-<p>
+<div>
 	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=thainm-uet&show_icons=true&theme=monokai" />
 	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainm-uet&layout=compact&theme=monokai" />
-</p>
-
-
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhCao031&repo=Web3306_22&theme=blueberry)](https://github.com/MinhCao031/Web3306_22) -->
-
+</div>
