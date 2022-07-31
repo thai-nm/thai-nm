@@ -23,6 +23,6 @@ Welcome to my Github page! I'm a computer guy trying my best to discover the wor
 #### :computer: Programming languages and tools: 
 
 <div>
-	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=thainm-uet&show_icons=true&theme=monokai" />
+	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=thainmuet&show_icons=true&theme=monokai" />
 	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainmuet&layout=compact&theme=monokai" />
 </div>
