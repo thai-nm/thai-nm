@@ -11,8 +11,8 @@ Welcome to my Github page! I'm a computer guy trying my best to discover the wor
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science at University of Engineering and Technology, Vietnam National University
-- Discovering Cloud technologies and DevOps tools
+- Finish my Computer Science program at University of Engineering and Technology, Vietnam National University
+- Discovering Cloud technologies and DevOps career
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
@@ -24,5 +24,5 @@ Welcome to my Github page! I'm a computer guy trying my best to discover the wor
 
 <div>
 	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=thainm-uet&show_icons=true&theme=monokai" />
-	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainm-uet&layout=compact&theme=monokai" />
+	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainmuet&layout=compact&theme=monokai" />
 </div>
