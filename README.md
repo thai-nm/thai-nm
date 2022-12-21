@@ -5,20 +5,20 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thainm-uet)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thainm.uet@gmail.com)
 
-Welcome to my Github Personal page! I'm a computer guy trying my best to discover the technology world, and my target is to become an admirable and knowledgable DevOps Engineer!
+Hi guys! I'm a computer guy trying my best to discover the technology world, and my target is to become an admirable and knowledgable DevOps Engineer!
 
 <img align="right" alt="img" src="https://github.com/thainm-uet/thainm-uet/blob/main/its-devops.png" width="50%" height="300px" />
 
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science program at University of Engineering and Technology, Vietnam National University. It is my last year.
-- Discovering Cloud technologies, DevOps technologies and tools 
+- Work so hard as a Junior DevOps Engineer in FPT Software
+- Discover new hobbies: philosophy, psychology, films, games, baseball, ...
 
 #### :muscle: Things I am challenging myself with:
-- Study extremely hard DevOps technologies (LoL I must say DevOps is not a world, it is a whole universe!!!)
-- Read books daily
+- Form a book reading habit
 - Understand more about finance, money and investment
-- Develop a blog for my self
+- Develop a blog website for my self
 - Get some DevOps-related certificates: KAD, SAP, ComptiA Linux+
 
 #### :computer: Programming languages and tools: 
