@@ -11,15 +11,15 @@ Hi guys! I'm a computer guy trying my best to discover the technology world, and
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science program at University of Engineering and Technology, Vietnam National University. It is my last year.
-- Work so hard as a Junior DevOps Engineer in FPT Software
+- Finding who I am!!
+- Work so hard as a DevOps Engineer in FPT Software
 - Discover new hobbies: philosophy, psychology, films, games, baseball, ...
 
 #### :muscle: Things I am challenging myself with:
 - Form a book reading habit
 - Understand more about finance, money and investment
 - Develop a blog website for my self
-- Get some DevOps-related certificates: KAD, SAP, ComptiA Linux+
+- Get some DevOps-related certificates: Certified Kubernetes Administrator (Gotcha!), GCP Cloud Associate Engineer
 
 #### :computer: Programming languages and tools: 
 
