@@ -24,6 +24,6 @@ Hi guys! I'm a computer guy trying my best to discover the technology world, and
 #### :computer: Programming languages and tools: 
 
 <div>
-	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=thai-nm&show_icons=true&theme=gruvbox" />
-	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thai-nm&layout=compact&theme=gruvbox" />
+	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=thai-nm&show_icons=true&theme=gruvbox&count_private=true" />
+	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thai-nm&layout=compact&theme=gruvbox&count_private=true" />
 </div>
