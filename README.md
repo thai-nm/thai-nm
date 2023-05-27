@@ -25,5 +25,5 @@ Hi guys! I'm a computer guy trying my best to discover the technology world, and
 
 <div>
 	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=thai-nm&show_icons=true&theme=monokai" />
-	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thai-nm&layout=compact&theme=monokai" />
+	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thai-nm&layout=compact&theme=transparent" />
 </div>
