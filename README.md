@@ -4,6 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thainm-uet)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thainm-uet)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thainm.uet@gmail.com)
+[![CV]([https://img.shields.io/badge/CV-blue])](https://thainm.site)
 
 Hi guys! I'm a computer guy trying my best to discover the technology world, and my target is to become an admirable and knowledgable DevOps Engineer!
 
