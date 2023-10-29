@@ -14,13 +14,13 @@ Hi guys! I'm a computer guy trying my best to discover the technology world, and
 #### 🌱 Things I am currently working on: 
 - Finding who I am!!
 - Work so hard as a DevOps Engineer in FPT Software
-- Discover new hobbies: philosophy, psychology, films, games, baseball, ...
+- Discover new hobbies: philosophy, psychology, films, games, baseball, football, and magician!
 
 #### :muscle: Things I am challenging myself with:
-- Form a book reading habit
-- Understand more about finance, money and investment
-- Develop a blog website for my self
-- Get some DevOps-related certificates: Certified Kubernetes Administrator (Gotcha!), GCP Cloud Associate Engineer
+- Form a book-reading habit
+- Understand more about finance, money, and investment
+- Develop a blog website for myself
+- Get some DevOps-related certificates: Certified Kubernetes Administrator (Gotcha!), GCP Cloud Associate Engineer (And I got this as well!)
 
 #### :computer: Programming languages and tools: 
 
