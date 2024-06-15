@@ -25,7 +25,7 @@ Hi guys! I'm a computer guy trying my best to discover the technology world, and
 
 #### 🧰 My favorite tools and services: 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,linux,prometheus,ansible,jenkins,githubactions,gitlab,nginx,django,python,golang,bash&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,linux,prometheus,ansible,jenkins,githubactions,gitlab,nginx,django,python,golang,bash,datadog&perline=8)](https://skillicons.dev)
 
 #### 💻 Programming languages: 
 
