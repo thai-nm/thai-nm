@@ -1,10 +1,10 @@
 ### Hi guys 👋 
 ### I'm Thai, from Vietnam with love :D
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thainm-uet)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thainm-uet)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thai-nm)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thai-nm)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thainm.uet@gmail.com)
-[![CV](https://img.shields.io/badge/Curriculum_Vitae-purple)](https://thainm.site)
+[![CV](https://img.shields.io/badge/Curriculum_Vitae-purple)](https://blog.thainm.me)
 
 Hi guys! I'm a computer guy trying my best to discover the technology world, and my target is to become an admirable and knowledgeable DevOps Engineer!
 
@@ -24,12 +24,4 @@ Hi guys! I'm a computer guy trying my best to discover the technology world, and
 
 #### 🧰 My favorite tools and services: 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,linux,prometheus,ansible,jenkins,githubactions,gitlab,nginx,django,python,golang,bash,datadog&perline=8)](https://skillicons.dev)
-
-#### 💻 Programming languages: 
-
-<div>
-	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=thai-nm&show_icons=true&theme=gruvbox&count_private=true" />
-	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thai-nm&layout=compact&theme=gruvbox&count_private=true&show_icon=true" />
-</div>
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gcp,azure,cloudflare,kubernetes,docker,podman,wsl,linux,prometheus,grafana,datadog,elasticsearch,ansible,terraform,git,argocd,azuredevops,jenkins,githubactions,gitlab,nginx,django,python,go,javascript,bash,powershell,helm,mongodb,postgresql&titles=true)
