@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thai-nm)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thainm.uet@gmail.com)
 [![CV](https://img.shields.io/badge/Curriculum_Vitae-purple)](https://blog.thainm.me)
+![Profile views](https://komarev.com/ghpvc/?username=thai-nm&color=brightgreen)
 
 Hi guys! I'm a computer guy trying my best to discover the technology world, and my target is to become an admirable and knowledgeable DevOps Engineer!
 
