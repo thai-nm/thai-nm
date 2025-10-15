@@ -13,10 +13,10 @@ Hi guys! I'm a computer guy trying my best to discover the technology world, and
 
 
 #### 🌱 Things I am currently working on: 
-- Finding who I am!!
-- Work so hard as a DevOps Engineer at PlayStudios Asia
+- Finding who I am
+- Work so hard as a DevOps Engineer
 - Learn new DevOps technologies and concepts
-- Discover new hobbies: philosophy, psychology, films, games, football, magician, and photograph!
+- Discover new hobbies: philosophy, psychology, films, games, football, homelab, and photograph!
 
 #### 💪 Things I am challenging myself with:
 - Understand more about finance, money, and investment
